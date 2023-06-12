@@ -9,6 +9,7 @@
 | Neck | - | 位于 Backbone 与 Head 之间，对 Backbone 提取的特征做进一步的处理，以提升 Head 的检测质量 | |
 | 前端 | Frontend | 与开发者交互的代码库 | 量化工具库开发所属名词 |
 | 后端 | Backend | 与硬件实现相关的代码库，例如 TensorRT，OpenVINO，Mediapipe | 量化工具库开发所属名词 |
+| SOTA | State of the art | 在某个领域中表示“最先进”的意思 | SOTA Model<br>SOTA Algorithm |
 
 ## Basic
 
